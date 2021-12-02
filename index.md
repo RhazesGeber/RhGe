@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 这个网页主要想记录并分享一点东西。
+## 在基本上由个人进行组织和编程的情况下，信息的展现和阅读显然是比平台规定之下的自由很多。不论是Bilibili还是知乎，显然都不是什么很好的，作为一个展示本真的个人的平台。
 
 You can use the [editor on GitHub](https://github.com/RhazesGeber/RhGe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
